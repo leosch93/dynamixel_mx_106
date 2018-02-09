@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>dynamixel_mx_106</name>
+  <version>0.0.1</version>
+  <description>
+    TODO description
+  </description>
+
+  <maintainer email="lschai@student.ethz.ch">Leonard Schai</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+  <depend>roscpp</depend>
+  <depend>std_msgs</depend>
+  <depend>dynamixel_controllers</depend>
+
+</package>
