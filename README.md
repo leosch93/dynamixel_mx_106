@@ -3,8 +3,6 @@ This package should contain the configurations to connect the Dynamixel MX-106 w
 Unfortunately the ROS doesn't recognize the motor
 Variations tried were changing:
 
-baud rate
-protocol version
-Motor ID
+baud rate, protocol version, motor ID
 
-Nether of these were the source of the error
+Nether of these were the source of the error.
